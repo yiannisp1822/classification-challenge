@@ -1,8 +1,7 @@
 # classification-challenge  
 README: Spam Detector Project  
 
-##Overview  
-
+## Overview:  
 This project compares two machine learning models — Logistic Regression and Random Forest Classifier — to detect spam emails using a dataset from the UCI Machine Learning Library.  
 
 ## 1. Dataset  
